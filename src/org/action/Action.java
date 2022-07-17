@@ -16,6 +16,8 @@ public class Action {
 		a.moveToElement(courses).perform();
 		WebElement oracle = driver.findElement(By.xpath("//div[@title='Oracle']"));
 		a.doubleClick(oracle).perform();
+		//hello saran how r u ????
+		//Im fine......
 		
 		
 	}
